@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-user-resource-limits"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS user-resource-limits component - user_management"
+
+[lib]
+name = "user_resource_limits"
+path = "src/lib.rs"
