@@ -3,7 +3,7 @@ name = "SigmaOS-user-resource-limits"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "user-resource-limits component"
+description = "user resource limits"
 upstream = []
 
 [contract]
